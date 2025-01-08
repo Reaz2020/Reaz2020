@@ -1,10 +1,10 @@
-<div align="center">
-  <img height="150" src="https://i.ibb.co/vcSPnd6/Screenshot-2025-01-08-at-08-23-47.png"  />
-</div>
+<h1 align="center">hey there 👋 this is Reaz Md.</h1>
 
 ###
 
-<h1 align="center">hey there 👋 this is Reaz Md.</h1>
+<div align="center">
+  <img height="150" src="https://i.ibb.co/vcSPnd6/Screenshot-2025-01-08-at-08-23-47.png"  />
+</div>
 
 ###
 
@@ -60,27 +60,24 @@
 
 ###
 
-<p align="center">Find me here</p>
-
-###
-
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/md-reaz-morshed-59098250/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Reaz2020.Reaz2020&left_color=aliceblue"  />
-</div>
+<p align="left">nehal.sunderland@gmail.com</p>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Reaz2020&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Reaz2020&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Reaz2020/Reaz2020/output/snake.svg" alt="Snake animation" />
 
 ###
