@@ -2,7 +2,11 @@
 
 ###
 
-<img align="right" height="150" src="https://ibb.co/tw6wJXT"  />
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://i.ibb.co/vcSPnd6/Screenshot-2025-01-08-at-08-23-47.png"  />
+</div>
 
 ###
 
