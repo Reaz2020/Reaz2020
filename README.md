@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://i.ibb.co/vcSPnd6/Screenshot-2025-01-08-at-08-23-47.png"  />
-</div>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
